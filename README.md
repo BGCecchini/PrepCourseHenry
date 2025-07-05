@@ -1,1 +1,1 @@
-Práctica de cómo crear un repositorio y clonarlo desde GitHub al equipo local.
+Práctica de cómo crear un repositorio y clonarlo desde GitHub al equipo local, y luego actualizarlo en GitHub con el comando git push.
