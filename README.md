@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio de prueba de prepcourse 
+Práctica de cómo crear un repositorio y clonarlo desde GitHub al equipo local.
